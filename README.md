@@ -2,7 +2,7 @@
 This is a simple command-line based Personal Library Management System built with Python. It allows you to manage your book collection through an intuitive terminal interface.
 
 
-# Features:
+# Features
 Add Books: Input book titles and subjects to expand your collection
 
 Remove Books: Delete books from your library by title
